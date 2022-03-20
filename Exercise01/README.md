@@ -1,6 +1,6 @@
 # Ejercicios 01:
 Aquí se muestra la solución a multiples ejercicios nivel básico usando Python como lenguaje de programación, estos ejercicios se encuentran en:
-- https://www.w3resource.com/python-exercises/python-functions-exercises.php
+- [Ejercicios.](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
 
 ## Tipos de Funciones en Python:
 - Las funciones integradas como help() para preguntar por más información de un método, min() para obtener el valor mínimo, print() para imprimir un objeto en la terminal.
