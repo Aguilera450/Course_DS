@@ -28,5 +28,11 @@ La definición de una función no puede estar vacía, pero si por alguna razón 
 - [Python functions.](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
 - [Challange.](https://www.kaggle.com/code/scratchpad/notebook7659e8affb/edit)
 
+## Material de apoyo:
+- [Números primos.](http://www.unavarra.es/digitalAssets/124/124059_100000teonumintro01.pdf)
+- [Listas por comprensión.](https://www.analyticslane.com/2019/09/23/listas-por-comprension-en-python/)
+- [Booleanos, operaciones lógicas y binarias.](https://recursospython.com/guias-y-manuales/booleanos-operaciones-logicas-y-binarias/)
+
+
 ## Nota:
 Toda la información proporcionada en este README es parte de las notas vistas en clase con el equipo de DEV.F
